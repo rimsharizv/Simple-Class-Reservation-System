@@ -1,8 +1,8 @@
 /*main.cpp*/
 //
-// Author: Rimsha Rizvi, UIC CS141 Spring 2021
+// Author: Rimsha Rizvi
 //
-// Project 6 Assignment: C++ program for a simple class reservation system
+// Project: C++ program for a simple class reservation system
 //
 // The registration system inputs registration data from a file, and supports 9 commands:
 //      1. help: more info
